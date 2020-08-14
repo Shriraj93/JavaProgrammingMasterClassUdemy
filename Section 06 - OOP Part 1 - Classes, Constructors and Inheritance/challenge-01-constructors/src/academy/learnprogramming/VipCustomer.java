@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package com.citi;
 
 public class VipCustomer {
     private String name;

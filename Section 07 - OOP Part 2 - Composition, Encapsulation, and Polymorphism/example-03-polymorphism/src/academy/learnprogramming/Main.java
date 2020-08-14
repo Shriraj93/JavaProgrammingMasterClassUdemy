@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package com.citi;
 
 class Movie {
     private String name;

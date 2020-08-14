@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package com.citi;
 
 public class Vehicle {
     private String name;

@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package com.citi;
 
 public class Outlander extends Car {
     private int roadServiceMonths;

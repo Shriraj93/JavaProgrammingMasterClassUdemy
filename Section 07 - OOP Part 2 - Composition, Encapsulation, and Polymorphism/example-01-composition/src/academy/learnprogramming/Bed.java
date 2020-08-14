@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package com.citi;
 
 public class Bed {
     private String style;
